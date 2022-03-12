@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nijicha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal ESLint rules for React Project (with Typescript ❤️)",
   "main": "index.ts",
   "repository": "https://github.com/nijicha/eslint-config-nijicha",
@@ -30,7 +30,7 @@
     "prettier": "^2.5.1",
     "typescript": "^4.6.2"
   },
-  "peerDependency": {
+  "peerDependencies": {
     "@types/node": "^17.0.21",
     "@typescript-eslint/eslint-plugin": "^5.14.0",
     "@typescript-eslint/parser": "^5.14.0",
