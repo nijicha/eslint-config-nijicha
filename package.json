@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nijicha",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal ESLint rules for React Project (with Typescript ❤️)",
   "main": "index.ts",
   "repository": "https://github.com/nijicha/eslint-config-nijicha",
