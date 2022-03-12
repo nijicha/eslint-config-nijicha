@@ -8,7 +8,7 @@ Install npm package and its peerDependencies
 
 ```shell
 yarn add -D eslint-config-nijicha
-npx install-peerdeps --dev eslint-config-nijicha
+npx install-peerdeps -D eslint-config-nijicha
 ```
 
 ## Usage
@@ -23,7 +23,15 @@ npx install-peerdeps --dev eslint-config-nijicha
 }
 ```
 
-2. Copy `.husky/pre-commit` and `.prettierrc` into your project
+2. Copy the following files into your project
+
+```
+.husky/pre-commit
+.eslintignore
+.eslintrc.js
+.prettierrc
+.prettierignore
+```
 
 ## TODO
 
