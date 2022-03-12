@@ -38,6 +38,7 @@ module.exports = {
   rules: {
     '@typescript-eslint/no-var-requires': 'off',
     '@typescript-eslint/no-unused-vars': 'off',
+    'import/namespace': 'off',
     'jest/no-disabled-tests': 'warn',
     'jest/no-focused-tests': 'error',
     'jest/no-identical-title': 'error',

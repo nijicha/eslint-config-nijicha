@@ -2,6 +2,10 @@
 
 Personal ESLint rules for React Project (with Typescript ❤️)
 
+## Prerequisites
+
+NodeJS and `yarn` should be installed.
+
 ## Installation
 
 Install npm package and its peerDependencies
@@ -37,3 +41,9 @@ npx install-peerdeps -D eslint-config-nijicha
 
 - [ ] Add development section
 - [ ] Add script to copy setting to the setting up project
+
+## Development
+
+```shell
+./bin/setup.sh
+```
